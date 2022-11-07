@@ -1,7 +1,7 @@
 ## **Selamat datang di Repositori** 👋 [Kamar Kamsib](https://www.instagram.com/kamarkamsib/ "Instagram Kamar Kamsib") 👋
-<p align="center">
-[![160744959694494596](github-kamsib.png)](https://github.com/kamarkamsib?tab=repositories)
-</p>
+
+[![balsem](github-kamsib.png)](https://github.com/kamarkamsib?tab=repositories)
+
 <p align="center">
   <img src="https://gpvc.arturio.dev/kamarkamsib" alt="profile views"> •  
   <a href="https://twitter.com/intent/follow?screen_name=kamarkasmib&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/kamarkamsib?label=%40kamarkamsib&style=social"></a>  •
