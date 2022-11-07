@@ -1,6 +1,13 @@
 ## **Selamat datang di Repositori** 👋 [Kamar Kamsib](https://www.instagram.com/kamarkamsib/ "Instagram Kamar Kamsib") 👋
-[![balsem](atas-github-kamsib.png)](https://github.com/kamarkamsib?tab=repositories)
-
+<p align="center">
+[![160744959694494596](github-kamsib.png)](https://github.com/kamarkamsib?tab=repositories)
+</p>
+<p align="center">
+  <img src="https://gpvc.arturio.dev/kamarkamsib" alt="profile views"> •  
+  <a href="https://twitter.com/intent/follow?screen_name=kamarkasmib&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/kamarkamsib?label=%40kamarkamsib&style=social"></a>  •
+  <a href="https://kamsib.id">Blog</a> •
+  <a href="https://twitter.com/intent/follow?screen_name=kamarkamsib&tw_p=followbutton">Twitter</a> •
+</p>
 <!--
 **kamarkamsib/kamarkamsib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +24,6 @@ Here are some ideas to get you started:
 -->
 
 Selamat datang di Kamar Kamsib. Penuhi Asupan Keamanan Siber Setiap Hari. 
+...
 
 
