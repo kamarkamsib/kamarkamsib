@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/kamarkamsib" alt="profile views"> •  
-  <a href="https://twitter.com/intent/follow?screen_name=kamarkasmib&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/kamarkamsib?label=%40kamarkamsib&style=social"></a>  •
+  <a href="https://twitter.com/intent/follow?screen_name=google&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/google?label=%40google!&style=social"></a>  •
   <a href="https://kamsib.id">Blog</a> •
   <a href="https://twitter.com/intent/follow?screen_name=kamarkamsib&tw_p=followbutton">Twitter</a> •
 </p>
