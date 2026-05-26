@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://kamsib.id" target="_blank">
-    <img src="element/kamsib_banner.png" alt="Kamar Kamsib Banner" width="100%">
+    <img src="element/Logo-Kamsib-Text.png" alt="Kamar Kamsib Logo" width="60%">
   </a>
 </p>
 
@@ -25,8 +25,8 @@
   <a href="https://wa.me/62881011730807?text=Halo%20Kamsib%2C%20saya%20ingin%20berkonsultasi%20tentang%20layanan%20Anda." target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Konsultasi-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a href="https://twitter.com/kamarkamsib" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@kamarkamsib-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://x.com/kamsib_id" target="_blank">
+    <img src="https://img.shields.io/badge/X-@kamsib__id-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)">
   </a>
   <img src="https://komarev.com/ghpvc/?username=kamarkamsib&color=00c4cc&style=flat-square" alt="Views Counter">
 </p>
@@ -71,15 +71,6 @@ Untuk organisasi, perusahaan, atau instansi pendidikan yang ingin memperkuat per
 
 ---
 
-### 📊 Statistik Repositori & Kontribusi
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamarkamsib&show_icons=true&theme=tokyonight&locale=en" alt="Kamar Kamsib GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamarkamsib&layout=compact&theme=tokyonight&locale=en" alt="Kamar Kamsib Top Languages" height="150" />
-</p>
-
----
-
-<p align="center">
-  Dikelola oleh tim profesional <b>Kamsib Indonesia</b>. Hubungi kami melalui email: <a href="mailto:info@kamsib.id">info@kamsib.id</a>.
+  Dikelola oleh tim profesional <b>Kamsib Indonesia</b>. Hubungi kami melalui email: <a href="mailto:hubungi@kamsib.id">hubungi@kamsib.id</a>.
 </p>
