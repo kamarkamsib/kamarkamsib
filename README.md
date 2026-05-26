@@ -42,9 +42,9 @@
 
 | Platform | Deskripsi | Akses Sekarang |
 | :--- | :--- | :--- |
-| 🌐 **Kamsib Portal** | Pusat layanan keamanan profesional, konsultasi siber, program kemitraan, artikel/blog, dan rekaman webinar edukasi terbaru. | [kamsib.id ➜](https://kamsib.id) |
-| 🛡️ **Kamsib App** | Platform belajar cybersecurity interaktif secara gratis! Akses materi fundamental, latihan interaktif, dan terminal emulator langsung di browser. | [app.kamsib.id ➜](https://app.kamsib.id) |
-| 🏁 **Kamsib CTF** | Platform kompetisi dan simulasi Capture The Flag untuk melatih keterampilan hacking Anda dalam skenario dunia nyata. | [ctf.kamsib.id ➜](https://ctf.kamsib.id) |
+| 🌐 **Kamsib Portal** | Pusat layanan keamanan profesional, konsultasi siber, program kemitraan, artikel/blog, dan rekaman webinar edukasi terbaru. | [kamsib.id](https://kamsib.id) |
+| 🛡️ **Kamsib App** | Platform belajar cybersecurity interaktif secara gratis! Akses materi fundamental, latihan interaktif, dan terminal emulator langsung di browser. | [app.kamsib.id](https://app.kamsib.id) |
+| 🏁 **Kamsib CTF** | Platform kompetisi dan simulasi Capture The Flag untuk melatih keterampilan hacking Anda dalam skenario dunia nyata. | [ctf.kamsib.id](https://ctf.kamsib.id) |
 
 ---
 
